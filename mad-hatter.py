@@ -1,11 +1,5 @@
 #!/usr/bin/env python
 
-'''
-Place great hats above people's faces.
-USAGE:
-    facedetect.py [--cascade <cascade_fn>] [<video_source>]
-'''
-
 # Python 2/3 compatibility
 from __future__ import print_function
 
